@@ -1,0 +1,17 @@
+; OpenCVImgProc.def : Declares the module parameters for the DLL.
+
+LIBRARY
+
+EXPORTS
+    OpenImage
+	FreeImage
+	DrawOnDC
+	GetHBmp
+	DownPy
+	AdaptiveThreshold
+	FindContours
+	SubImage
+	Blur
+	MedianBlur
+	Canny
+	GetLine
